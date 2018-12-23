@@ -1,0 +1,13 @@
+name: AllS
+version: 0.1
+api: [3.0.0,3.8.0,4.0.0]
+main: pawarenessc\AllS\Main
+author: PawarenessC
+description: ずっとサバイバル
+commands:
+
+ adds:
+
+  description: "ADD Survival"
+
+  usage: " /adds "
